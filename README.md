@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @_annkurr_
+- 👋 Hi, I’m @kurkurrrrr
 - 👀 I’m interested in 
 - 🌱 I’m currently learning c/c++
 - 💞️ I’m looking to collaborate on ...
